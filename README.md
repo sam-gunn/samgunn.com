@@ -1,2 +1,2 @@
 # samgunn.com
-Personal Website
+Personal Website / Blog
